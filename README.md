@@ -15,4 +15,6 @@ Repositório para armazenar códigos do bootcamp. Alguns serão a respeito de gi
 
 ```
 git clone URL
+git púll
+git push -u origin main
 ```
